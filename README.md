@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my thesis on Evolution of cooperation
+- 🔭 I’m currently working on my MSc thesis on Evolution of cooperation
 - 🌱 I’m currently learning Complex Systems and Ecology
